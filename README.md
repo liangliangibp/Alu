@@ -1,3 +1,6 @@
+DOI: 10.5281/zenodo.7668477
+
+
 # Alu project
   alu project desc
 
