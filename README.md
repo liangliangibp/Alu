@@ -3,7 +3,7 @@
 
 # Alu project
 
-  DOI: 10.5281/zenodo.7668477
+  DOI: 10.5281/zenodo.7725319
   
 
    scripts: python scripts
